@@ -1,0 +1,155 @@
+{
+  "focus": false,
+  "data/9Re4ma-Xh38y": {
+    "input": "/*root*/\n@import url(\"https://fonts.googleapis.com/css?family=Montserrat\");\n\n* {font-family: \"Montserrat\";}"
+  },
+  "background": {
+    "id": "HB9I4mHkXeSd",
+    "key": "background/unsplash",
+    "display": { "blur": 0, "luminosity": 0 }
+  },
+  "widget/default-time": null,
+  "data/default-greeting": { "name": "Mattias" },
+  "widget/TzvKWXnePF0a": {
+    "id": "TzvKWXnePF0a",
+    "key": "widget/search",
+    "order": 3,
+    "display": {
+      "position": "bottomCentre",
+      "colour": "#ffffff",
+      "fontFamily": "gill sans"
+    }
+  },
+  "widget/f8UdyJRil1BD": {
+    "id": "f8UdyJRil1BD",
+    "key": "widget/css",
+    "order": 10,
+    "display": { "position": "middleCentre" }
+  },
+  "data/f8UdyJRil1BD": {
+    "input": "/* Footer */\n.credit .photo\n{visibility: hidden;!important;}\n\n.controls {\n  cursor: pointer;\n  opacity: 0;\n  background-color: #000;\n}\n\n.controls:hover {\n  opacity: 1;\n  background-color: #000;\n}\n}"
+  },
+  "widget/default-greeting": {
+    "id": "default-greeting",
+    "key": "widget/greeting",
+    "order": 2,
+    "display": {
+      "position": "middleCentre",
+      "fontFamily": "gill sans",
+      "fontWeight": 400
+    }
+  },
+  "widget/QG_wOGqkydvA": {
+    "id": "QG_wOGqkydvA",
+    "key": "widget/links",
+    "order": 6,
+    "display": { "position": "bottomCentre", "fontWeight": 100 }
+  },
+  "data/4TMvzKnRaQO-": {
+    "input": "/* .Weather {\nbackground-color: #fff;\ncolor: #999;\n  border-radius: 60px;\npadding:10px;\nopacity: 60%;\n}*/"
+  },
+  "data/Um7Lx6qaplMN": {
+    "input": "/* Search */\n\n.Search input {\n  background: -moz-Field url(https://www.svgrepo.com/show/458878/search-alt.svg) .60rem / 35px no-repeat;\n  border: 1px solid rgba(249, 249, 250, 0.2);\n  padding: .70rem;\n  color: transparent;\nopacity: 70%;\n  border-radius: 100px;\ntransition: 0.3s ease-in;\ncursor: pointer;\n}\n\n.Search input::placeholder {\nopacity: 50%;\ncolor: transparent;\n}\n\n.Search input:focus::placeholder {\n  color: transparent;\n}\n\n.Search input:focus {\nbackground: -moz-Field url(https://www.svgrepo.com/show/458878/search-alt.svg) calc(100% - 0.75rem) .70rem / 33px no-repeat;\n  border: solid 1px #0060df;\n  box-shadow: 0 0 0 1px #0060df, 0 0 0 4px rgba(0, 96, 223, 0.3);\nopacity: 95%;\nwidth: 350px;\ncolor:#666666;\ntransform: scale(1.2, 1.2);\ncursor: text;\n}\n\n\ninput:not(:focus) {\n    width: 55px !important;\ntransform: scale(1);\ncolor: transparent;\n\n}\n"
+  },
+  "data/f7k6bF9DnVYU": {
+    "showDetails": false,
+    "units": "si",
+    "latitude": 60.0684,
+    "longitude": 15.9316
+  },
+  "widget/Um7Lx6qaplMN": {
+    "id": "Um7Lx6qaplMN",
+    "key": "widget/css",
+    "order": 5,
+    "display": { "position": "middleCentre" }
+  },
+  "widget/5gTHAWpnBBdv": {
+    "id": "5gTHAWpnBBdv",
+    "key": "widget/css",
+    "order": 8,
+    "display": { "position": "middleCentre" }
+  },
+  "widget/9Re4ma-Xh38y": {
+    "id": "9Re4ma-Xh38y",
+    "key": "widget/css",
+    "order": 4,
+    "display": { "position": "middleCentre" }
+  },
+  "data/Gh6g29nD0kwg": {
+    "input": "/* Greeting h2 */\n\n.Greeting {\ntext-shadow: 0 0 8px #444;\n\n}"
+  },
+  "widget/6orpxgKveSTw": {
+    "id": "6orpxgKveSTw",
+    "key": "widget/css",
+    "order": 9,
+    "display": { "position": "middleCentre" }
+  },
+  "data/5gTHAWpnBBdv": {
+    "input": "/* Emoji hand */\n.Greeting h2::after {\n  margin: 0px 10px;\n  content: ' 👋🏻';\nfont-size: 35px;\n    animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */\n    animation-duration: 10s;        /* Change to speed up or slow down */\n    animation-iteration-count: infinite;  /* Never stop waving :) */\n    transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */\n    display: inline-block;\n  }\n  \n  @keyframes wave-animation {\n      0% { transform: rotate( 0.0deg) }\n     10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */\n     20% { transform: rotate(-8.0deg) }\n     30% { transform: rotate(14.0deg) }\n     40% { transform: rotate(-4.0deg) }\n     50% { transform: rotate(10.0deg) }\n     60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */\n    100% { transform: rotate( 0.0deg) }\n  }"
+  },
+  "widget/4TMvzKnRaQO-": {
+    "id": "4TMvzKnRaQO-",
+    "key": "widget/css",
+    "order": 0,
+    "display": { "position": "middleCentre" }
+  },
+  "widget/f7k6bF9DnVYU": {
+    "id": "f7k6bF9DnVYU",
+    "key": "widget/weather",
+    "order": 1,
+    "display": { "position": "topRight" }
+  },
+  "widget/Gh6g29nD0kwg": {
+    "id": "Gh6g29nD0kwg",
+    "key": "widget/css",
+    "order": 7,
+    "display": { "position": "middleCentre" }
+  },
+  "data/QG_wOGqkydvA": {
+    "columns": 3,
+    "links": [
+      {
+        "url": "https://github.com/mattiasstjernstrom",
+        "name": "",
+        "icon": "github"
+      },
+      { "url": "https://youtube.com", "name": "", "icon": "youtube" },
+      { "url": "https://x.com", "name": "", "icon": "x" },
+      { "url": "http://svt.se", "name": "", "icon": "_favicon" },
+      { "url": "https://chat.openai.com", "name": "", "icon": "_favicon" },
+      { "url": "https://reddit.com", "name": "", "icon": "_favicon" }
+    ],
+    "visible": true,
+    "linkOpenStyle": false
+  },
+  "data/6orpxgKveSTw": {
+    "input": ".Links a svg {\n    text-decoration: none;\n    display: inline-block;\n    position: relative;\ntext-shadow: 0px 20px 0px 0px #000;\n  }\n\n.Links a svg {\n  transform-origin: center;\n  display: inline-block;\n  transition: transform 0.3s ease;\n}\n\n.Links a:hover svg,.Links a:hover img {\n  animation: wave-animation 1s infinite;\n}"
+  },
+  "data/O3n_GIMBl73l": {
+    "input": "/* Github-fix, not in use */\n.GitHub {\n   width:80%;\n  display: inline-flex;\n  justify-content: center;\n\nheight: 80px;\n}\n.sr-only {\n    display: none;\n}\n\ntd:first-child {\n    display: none;\n}\n\ndiv.js-calendar-graph div:last-child {\n    display: none;\n}\n\ntable.ContributionCalendar-grid thead {\n    display: none;\n}\n\ntd.ContributionCalendar-day {\n    border-radius: 3px;\n}\n\ntd.ContributionCalendar-day[data-level='0'] {\n    background-color: var(--color-calendar-graph-day-bg);\n}\n\ntd.ContributionCalendar-day[data-level='1'] {\n    background-color: var(--color-calendar-graph-day-L1-bg);\n}\n\ntd.ContributionCalendar-day[data-level='2'] {\n    background-color: var(--color-calendar-graph-day-L2-bg);\n}\n\ntd.ContributionCalendar-day[data-level='3'] {\n    background-color: var(--color-calendar-graph-day-L3-bg);\n}\n\ntd.ContributionCalendar-day[data-level='4'] {\n    background-color: var(--color-calendar-graph-day-L4-bg);\n}"
+  },
+  "widget/O3n_GIMBl73l": {
+    "id": "O3n_GIMBl73l",
+    "key": "widget/css",
+    "order": 12,
+    "display": { "position": "middleCentre" }
+  },
+  "widget/xgp3VXBDcSiT": {
+    "id": "xgp3VXBDcSiT",
+    "key": "widget/css",
+    "order": 13,
+    "display": { "position": "middleCentre" }
+  },
+  "data/HB9I4mHkXeSd": {
+    "by": "search",
+    "collections": "",
+    "featured": false,
+    "paused": false,
+    "search": "Scenery",
+    "topics": "bo8jQKTaE0Y",
+    "timeout": 900
+  },
+  "locale": "sv",
+  "timeZone": null,
+  "version": 3
+}
